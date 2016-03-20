@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39B47B</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#888D8C</color>
+
+    <color name="titleBarColor">#39B47B</color>
+    <color name="sendButtonColor">#15635C</color>
+    <color name="backgroundColor">#F9F9F9</color>
+    <color name="senderColor">#D7D7D7</color>
+    <color name="receiverColor">#5CBB61</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="typeColor">#E7E7E9</color>
+</resources>
